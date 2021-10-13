@@ -1,0 +1,16 @@
+/home/gaston/Documentos/Ejercicion_C-/proyecto1/bin/Debug/net5.0/proyecto1
+/home/gaston/Documentos/Ejercicion_C-/proyecto1/bin/Debug/net5.0/proyecto1.deps.json
+/home/gaston/Documentos/Ejercicion_C-/proyecto1/bin/Debug/net5.0/proyecto1.runtimeconfig.json
+/home/gaston/Documentos/Ejercicion_C-/proyecto1/bin/Debug/net5.0/proyecto1.runtimeconfig.dev.json
+/home/gaston/Documentos/Ejercicion_C-/proyecto1/bin/Debug/net5.0/proyecto1.dll
+/home/gaston/Documentos/Ejercicion_C-/proyecto1/bin/Debug/net5.0/ref/proyecto1.dll
+/home/gaston/Documentos/Ejercicion_C-/proyecto1/bin/Debug/net5.0/proyecto1.pdb
+/home/gaston/Documentos/Ejercicion_C-/proyecto1/obj/Debug/net5.0/proyecto1.csproj.AssemblyReference.cache
+/home/gaston/Documentos/Ejercicion_C-/proyecto1/obj/Debug/net5.0/proyecto1.GeneratedMSBuildEditorConfig.editorconfig
+/home/gaston/Documentos/Ejercicion_C-/proyecto1/obj/Debug/net5.0/proyecto1.AssemblyInfoInputs.cache
+/home/gaston/Documentos/Ejercicion_C-/proyecto1/obj/Debug/net5.0/proyecto1.AssemblyInfo.cs
+/home/gaston/Documentos/Ejercicion_C-/proyecto1/obj/Debug/net5.0/proyecto1.csproj.CoreCompileInputs.cache
+/home/gaston/Documentos/Ejercicion_C-/proyecto1/obj/Debug/net5.0/proyecto1.dll
+/home/gaston/Documentos/Ejercicion_C-/proyecto1/obj/Debug/net5.0/ref/proyecto1.dll
+/home/gaston/Documentos/Ejercicion_C-/proyecto1/obj/Debug/net5.0/proyecto1.pdb
+/home/gaston/Documentos/Ejercicion_C-/proyecto1/obj/Debug/net5.0/proyecto1.genruntimeconfig.cache
