@@ -1,2 +1,1 @@
-# ahorcado
-ahorcado con C#
+# Formas geometricas
