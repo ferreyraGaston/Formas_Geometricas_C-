@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v5.0": {
-      "proyecto1/1.0.0": {
+      "ahorcado/1.0.0": {
         "runtime": {
-          "proyecto1.dll": {}
+          "ahorcado.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "proyecto1/1.0.0": {
+    "ahorcado/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

@@ -1,1 +1,2 @@
-# Ejercicion_C-
+# ahorcado
+ahorcado con C#

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/gaston/Documentos/Ejercicion_C-/proyecto1/proyecto1.csproj": {}
+    "/home/gaston/Programacion web ispc/Ejercicion_C-/ahorcado.csproj": {}
   },
   "projects": {
-    "/home/gaston/Documentos/Ejercicion_C-/proyecto1/proyecto1.csproj": {
+    "/home/gaston/Programacion web ispc/Ejercicion_C-/ahorcado.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/gaston/Documentos/Ejercicion_C-/proyecto1/proyecto1.csproj",
-        "projectName": "proyecto1",
-        "projectPath": "/home/gaston/Documentos/Ejercicion_C-/proyecto1/proyecto1.csproj",
+        "projectUniqueName": "/home/gaston/Programacion web ispc/Ejercicion_C-/ahorcado.csproj",
+        "projectName": "ahorcado",
+        "projectPath": "/home/gaston/Programacion web ispc/Ejercicion_C-/ahorcado.csproj",
         "packagesPath": "/home/gaston/.nuget/packages/",
-        "outputPath": "/home/gaston/Documentos/Ejercicion_C-/proyecto1/obj/",
+        "outputPath": "/home/gaston/Programacion web ispc/Ejercicion_C-/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/gaston/.nuget/NuGet/NuGet.Config"
@@ -52,7 +52,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/5.0.402/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/5.0.403/RuntimeIdentifierGraph.json"
         }
       }
     }
